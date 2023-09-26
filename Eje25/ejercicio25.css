@@ -1,0 +1,11 @@
+.resaltado{
+    background-color: yellow;
+}
+
+#area{
+    font-weight: bold;
+}
+
+#perimetro{
+    font-weight: bold;
+}
